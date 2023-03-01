@@ -35,7 +35,7 @@ body{
 .top-section{
 	background-color:#800080;;
 	text-align: center;
-	padding: 20px;
+	padding: 40px;
 }
 .profile{
 	width: 150px;
@@ -85,6 +85,8 @@ body{
 .p3{
 	color: #7b7b7b;
 	margin-bottom: -5px;
+	text-align: justify;
+	line-height: 25px;
 
 }
 .fa{
