@@ -81,6 +81,7 @@ body{
 	font-size: 20px;
 	text-transform: uppercase;
 	font-weight: 600;
+	
 }
 .p3{
 	color: #7b7b7b;
@@ -105,4 +106,13 @@ body{
 .p-4{
 	font-size: 14px;
 	color: #7b7b7b;
+}
+.exp1{
+	text-align: justify;
+}
+.exp2{
+	text-align: justify;
+}
+.exp3{
+	text-align: justify;
 }
